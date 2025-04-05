@@ -75,5 +75,5 @@ En el video se explican:
 
 ## 📄 Autor
 
-Desarrollado por [Tu Nombre].
+Desarrollado por [carlos sierra].
 
