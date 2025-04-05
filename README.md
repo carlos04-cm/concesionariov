@@ -52,13 +52,6 @@ Esta es una aplicación de escritorio desarrollada en **Java Swing** que simula 
 
 ---
 
-## 🎬 Video demostrativo
-
-En el video se explican:
-- Las funciones principales del sistema.
-- Cómo están diseñadas las ventanas.
-- Cómo se conectan entre sí.
-- La ejecución del programa sin errores.
 
 ---
 
